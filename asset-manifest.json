@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/2ndwavelive/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/2ndwavelive/static/js/main.3448442d.chunk.js",
+    "main.js.map": "/2ndwavelive/static/js/main.3448442d.chunk.js.map",
+    "runtime-main.js": "/2ndwavelive/static/js/runtime-main.c6179976.js",
+    "runtime-main.js.map": "/2ndwavelive/static/js/runtime-main.c6179976.js.map",
+    "static/css/2.c9bf8ad2.chunk.css": "/2ndwavelive/static/css/2.c9bf8ad2.chunk.css",
+    "static/js/2.4987d439.chunk.js": "/2ndwavelive/static/js/2.4987d439.chunk.js",
+    "static/js/2.4987d439.chunk.js.map": "/2ndwavelive/static/js/2.4987d439.chunk.js.map",
+    "static/js/3.32595774.chunk.js": "/2ndwavelive/static/js/3.32595774.chunk.js",
+    "static/js/3.32595774.chunk.js.map": "/2ndwavelive/static/js/3.32595774.chunk.js.map",
+    "index.html": "/2ndwavelive/index.html",
+    "static/css/2.c9bf8ad2.chunk.css.map": "/2ndwavelive/static/css/2.c9bf8ad2.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/2ndwavelive/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.4987d439.chunk.js.LICENSE.txt": "/2ndwavelive/static/js/2.4987d439.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6179976.js",
+    "static/css/2.c9bf8ad2.chunk.css",
+    "static/js/2.4987d439.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.3448442d.chunk.js"
+  ]
+}
